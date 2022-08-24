@@ -1,0 +1,10 @@
+# Settings Configuration
+
+1. Appearance:
+Icon Size- 32
+Position- Bottom
+
+# Terminal Preferences:
+Colors- Solarized Dark , Text- #FFFFFF
+
+
