@@ -1,0 +1,22 @@
+# home/deq/.config/Code/User/settings.json
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.fontSize": 12,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    // "files.autoSave": "afterDelay",
+
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "security.workspace.trust.untrustedFiles": "open",
+
+    "code-runner.runInTerminal": true,
+    "tabnine.experimentalAutoImports": true,
+    "bitoAI.appearance.fontSize (Match with IDE Font)": false,
+    "bitoAI.codeCompletion.enableAutoCompletion": true,
+    "bitoAI.codeCompletion.enableCommentToCode": true,
+    "workbench.iconTheme": "vscode-icons"
+    "git-graph.repository.showUntrackedFiles": false
+}
